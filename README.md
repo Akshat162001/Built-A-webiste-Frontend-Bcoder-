@@ -11,5 +11,8 @@ cd bcoder-frontend
 
 That covers the basic information about the Bcoder website frontend. For more detailed documentation or specific implementation details, please refer to the source code or additional documentation provided with the project.
 
+Contributing
+Contributions to the Bcoder website frontend are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+
 
 
