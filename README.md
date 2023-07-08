@@ -4,11 +4,12 @@ This is the documentation for the Bcoder website frontend. Bcoder is an online p
 To run the Bcoder website frontend on your local machine, follow these steps:
 
 Clone the repository from GitHub:
-git clone https://github.com/your-username/bcoder-frontend.git
+git clone https://github.com/Akshat162001/bcoder-frontend.git
 
 Navigate to the project directory:
 cd bcoder-frontend
 
+That covers the basic information about the Bcoder website frontend. For more detailed documentation or specific implementation details, please refer to the source code or additional documentation provided with the project.
 
 
 
